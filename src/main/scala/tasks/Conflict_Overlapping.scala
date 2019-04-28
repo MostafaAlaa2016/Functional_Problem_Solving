@@ -12,7 +12,6 @@ object Conflict_Overlapping extends App {
     */
   case class Interval(start: Int, end: Int)
 
-
   /** count overlapping in bookings
     *
     * Count the distinct overlapping for input list of `Interval`
